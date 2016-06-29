@@ -163,6 +163,19 @@ secondarynav:
 #  internal: true
 #  category: Page components
 
+# Content guidelines
+- text: Content Guidelines
+  url: content-guidelines/content-guidelines.html
+  internal: true
+  category: Content guidelines test
+- text: Brand Guidelines Test
+  url: content-guidelines/brand-guidelines-content.html
+  internal: true
+  category: Content guidelines
+- text: Global Elements Test
+  url: content-guidelines/global-elements-content.html
+  internal: true
+  category: Content guidelines
 
 # Footer Navigation
 # List links that should appear in the footer navigation (footer) here
