@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Global Elements Test
+title: Content guidelines for Global Elements
 category: Content guidelines
 published: true
 ---

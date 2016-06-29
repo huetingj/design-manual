@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Brand Guidelines Test
+title: Content guidelines for Brand Guidelines
 category: Content guidelines
 published: true
 ---

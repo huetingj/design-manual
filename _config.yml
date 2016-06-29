@@ -168,11 +168,11 @@ secondarynav:
   url: content-guidelines/content-guidelines.html
   internal: true
   category: Content guidelines
-- text: Brand Guidelines Test
+- text: Content guidelines for Brand Guidelines
   url: content-guidelines/brand-guidelines-content.html
   internal: true
   category: Content guidelines
-- text: Global Elements Test
+- text: Content guidelines for Global Elements
   url: content-guidelines/global-elements-content.html
   internal: true
   category: Content guidelines
